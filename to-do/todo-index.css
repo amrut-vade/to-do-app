@@ -1,0 +1,11 @@
+
+
+.bg-image{
+
+    
+    /* background-image: url("todo-banner.jpg"); */
+     height: 738px;
+     background-image: url("/public/todo-banner.jpg"); 
+     background-color: black;
+      background-size: cover;
+}
